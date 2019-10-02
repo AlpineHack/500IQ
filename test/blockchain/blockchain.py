@@ -1,6 +1,6 @@
 import hashlib
 import sys
-
+#ZBOUB
 class Block:
     content = ""
     previousHash = ""
