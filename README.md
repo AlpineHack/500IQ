@@ -13,4 +13,4 @@ Video : https://youtu.be/PwZ-_IwIhTo
 1. Watch video
 2. Business plan with documentation/schema.jpeg
 3. mockups/screenshots
-4. See the deployed application : https://500iq.tokens-economy.com/
+4. See the deployed application : https://500iq.tokens-economy.com/ and see it functionnement in documentation/WebsitePresentation
