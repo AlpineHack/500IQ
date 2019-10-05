@@ -12,5 +12,5 @@ Video : https://youtu.be/PwZ-_IwIhTo
 ## Order
 1. Watch video
 2. Business plan with https://github.com/AlpineHack/500IQ/blob/master/documentation/schema.jpeg
-3. mockups/screenshots
+3. https://github.com/AlpineHack/500IQ/tree/master/mockups/screenshots
 4. See the deployed application : https://500iq.tokens-economy.com/ and see it functionnement in https://github.com/AlpineHack/500IQ/blob/master/documentation/WebsitePresentation.pdf
